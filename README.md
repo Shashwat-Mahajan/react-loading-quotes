@@ -87,7 +87,7 @@ MIT License
 ## 👤 Author
 
 Shashwat Mahajan  
-[GitHub](https://github.com/shashwatmahajan) | [LinkedIn](https://linkedin.com/in/shashwatmahajan)
+[GitHub](https://github.com/Shashwat-Mahajan) | [LinkedIn](https://www.linkedin.com/in/shashwatmahajan2/)
 
 ---
 
