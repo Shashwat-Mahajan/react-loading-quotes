@@ -28,7 +28,7 @@ yarn add react-quote-loader
 
 ```jsx
 import React from 'react';
-import QuoteLoader from 'react-quote-loader';
+import QuoteLoader from 'react-loading-quotes';
 
 function App() {
     return (
