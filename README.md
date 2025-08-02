@@ -17,9 +17,9 @@ A customizable React component that displays animated inspirational quotes with 
 ## 📦 Installation
 
 ```bash
-npm install react-quote-loader
+npm install react-loading-quotes
 # or
-yarn add react-quote-loader
+yarn add react-loading-quotes
 ```
 
 ---

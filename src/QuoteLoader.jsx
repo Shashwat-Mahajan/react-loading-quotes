@@ -61,7 +61,12 @@ export default function QuoteLoader({
           key="quote-loader"
           className={`fixed inset-0 z-50 flex flex-col items-center justify-center ${
             theme === "dark" ? "bg-black text-white" : "bg-white text-black"
-          }`}
+          }
+        ${
+          theme === "light"
+            ? "bg-white text-gray-900 border border-gray-200"
+            : ""
+        }`}
           style={{
             position: "fixed",
             top: 0,
